@@ -1,4 +1,4 @@
-# JurassicTalk.io
+# Jurassic Talk
 Pequeño proyecto utilizando el reconocimiento de voz
 ![image](https://github.com/user-attachments/assets/192a419b-76fe-4714-a4d1-26caa64e458c)
 
